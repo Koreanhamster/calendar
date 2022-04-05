@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Roboto:ital,wght@0,300;0,400;1,300&display=swap");
+
+.holiday {
+  color: red;
+}
+
+body {
+  background: url(background.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  font-family: grape nuts;
+  margin-top: 50px;
+  font-size: 50px;
+  color: azure;
+}
+
+caption {
+  margin-bottom: 15px;
+  font-size: 25px;
+}
+
+td:nth-child(1),
+th:nth-child(1) {
+  color: red;
+}
+
+.wrapper {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: grape nuts;
+}
+
+table {
+  margin-right: 20px;
+  color: azure;
+}
