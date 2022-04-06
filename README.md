@@ -8,7 +8,7 @@ https://koreanhamster.github.io/calendar/4:5/index.html
 
 
 ## 문제 
-일요일에 해당하는 열만 빨간색으로 색깔을 변경하고싶어서, <colgroup>을 만들어 안에 <col span="1"> 을 줘서 일요일 열을 지정해주고 CSS로 color="red" 로 색깔을 지정해줬는데 먹히지 않았다.
+일요일에 해당하는 열만 빨간색으로 색깔을 변경하고싶어서, colgroup을 만들어 자식요소로 col span="1" 을 넣서 일요일 열을 지정해주고 CSS로 color="red" 로 색깔을 지정해줬는데 먹히지 않았다.
 
  
  
